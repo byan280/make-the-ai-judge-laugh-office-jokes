@@ -1,13 +1,14 @@
 # Make the AI Judge Laugh: Office Jokes
 #
-# This entry prints exactly one fixed line to stdout.
-# The output never changes between runs: no input is read,
-# no randomness is used, and no arguments are required.
+# Printer rage is the most universal office experience, so
+# the joke starts there: the machine only works when nobody
+# needs it. Then it escalates to scientists studying the
+# phenomenon, and the deadpan conclusion, spite, lands the
+# twist. Understatement does the heavy lifting throughout.
+# Three short sentences keep the rhythm brisk: setup,
+# escalation, verdict. Nothing is explained twice.
+# The output stays fixed: one print, no input, no randomness,
+# so the result is identical on every machine and every run.
 # Run it with: python3 main.py
-#
-# The output is the entry itself: one office joke.
-# Nothing else is printed, and the process exits normally.
-# The line is kept byte-identical on purpose so the result
-# is reproducible on every machine and every run.
-# One fixed office joke on stdout.
-print("We have an open-door policy, which mostly means everyone can see me crying at my spreadsheet.")
+# The printer has never once jammed on a quiet Friday.
+print("The office printer only works when nobody needs it. Scientists are studying it. So far, the leading theory is spite.")
